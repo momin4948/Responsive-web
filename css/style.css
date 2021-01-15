@@ -1,0 +1,173 @@
+/*CUSTOM CSS FILE */
+
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+h3 {
+    font-weight: 800px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.header-top {
+    background-color: #fff9f4;
+}
+
+.header-img {
+    position: absolute;
+    width: 407px;
+    height: 407px;
+    left: 217px;
+    top: 179px;
+}
+
+.navbar-brand img {
+    width: 350px;
+    height: 50px;
+}
+
+.nav-logo img {
+    width: 20em;
+    height: 3rem;
+}
+
+.nav-color {
+    color: white;
+}
+
+.nav-img {
+    height: 2em;
+    width: 300px;
+}
+
+body {
+    margin: 0;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
+.heading {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.penguin-card {
+    border: none !important;
+}
+
+.penguin-card-top img {
+    background-color: #f1f1f1;
+    width: 80%;
+    height: 350px;
+    border-radius: 30px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.penguin-card-footer {
+    background-color: white !important;
+    border: 0 !important;
+}
+
+.categories img {
+    width: 100px;
+}
+
+.penguin-slide {
+    background-color: #FCEAE8;
+    border-radius: 1em;
+}
+
+.link-button {
+    background-color: rgb(66, 66, 184);
+    padding: 20px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 500;
+    height: 60px;
+    width: 130px;
+    left: 1121px;
+    top: 1310px;
+    text-align: end;
+    margin: auto;
+}
+
+.box-shadow {
+    left: 936px;
+    top: 843px;
+    border-radius: 20px;
+    background: white;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+}
+
+.title-color {
+    color: #363958;
+}
+
+.price-color {
+    color: tomato;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+#about {
+    height: 100%;
+    width: 80%;
+}
+
+.form-container {
+    background-color: #FFF9F4;
+}
+
+.inner-form {
+    background-color: #FFF9F4;
+}
+
+.bg-redtype {
+    background-color: #fb857f;
+}
+
+.bg-redtype:hover {
+    color: black !important;
+}
+
+.footer {
+    text-align: center;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+}
+
+.slider .col img {
+    width: 100%;
+}
+
+.cover-shoe img {
+    width: 100%;
+}
+
+.div-text {
+    margin: 20px;
+    padding-left: 30px;
+}
+
+.h1-sizing {
+    font-size: 70px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.shoe-card {
+    border-radius: 50px;
+    text-align: center;
+}
+
+.shoe-card img {
+    height: 100px;
+    width: 100px;
+}
+
+#cart-logo {
+    height: 100px;
+    width: 100px;
+}
